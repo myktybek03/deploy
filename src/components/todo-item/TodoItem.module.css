@@ -1,0 +1,15 @@
+.todoItem {
+   margin-bottom: 10px;
+}
+
+.todoText {
+   margin-right: 10px;
+}
+
+.deleteButton {
+   background-color: #ff5757;
+   color: #fff;
+   border: none;
+   padding: 5px 10px;
+   cursor: pointer;
+}
